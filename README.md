@@ -151,11 +151,10 @@ Install Python 3.10 or a compatible version supported by your selected package r
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd unemployment-analysis
+git clone https://github.com/johnKapungu/CodeApha_Unemployment_In_India-Analysis.git
+cd CodeApha_Unemployment_In_India-Analysis
 ```
 
-Replace `<your-repository-url>` with your actual GitHub repository URL.
 
 ### 2. Create a virtual environment
 
